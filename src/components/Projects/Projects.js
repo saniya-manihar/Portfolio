@@ -45,7 +45,7 @@ function Projects() {
               isBlog={false}
               title="Todo List"
               description="Experience seamless task management with our To-Do list project. Add your daily tasks to the list and effortlessly remove them when completed. Enjoy the convenience of modern features like dynamic rendering, easy styling, and organized structure. Stay productive and in control of your tasks with this user-friendly web-based solution. "
-              ghLink="https://github.com/DevKaranJ/ToDo-list"
+              ghLink="https://github.com/saniya-manihar/To-do"
               demoLink="https://todo-list-t5r6.onrender.com"
             />
           </Col>
@@ -56,7 +56,7 @@ function Projects() {
               isBlog={false}
               title="Math Magicians"
               description="Math Magicians is an educational web application built using React, designed for math enthusiasts. It features a versatile calculator for basic math operations and offers random math-related quotes for inspiration. The project provides hands-on learning in web development, divided into projects covering setup, component creation, event handling, data fetching, website structure, and testing. It aims to make math learning engaging and serves as a practical React development exercise."
-              ghLink="https://github.com/DevKaranJ/math-magicians"
+              ghLink="https://github.com/saniya-manihar/math-magicians"
               demoLink="https://math-magicians-dnk4.onrender.com"
             />
           </Col>
@@ -78,7 +78,7 @@ function Projects() {
     isBlog={false}
     title="Kisaan Setu – MERN Based Smart Agriculture Platform"
     description="Kisaan Setu is a MERN-based smart agriculture platform designed to directly connect farmers and buyers. It allows farmers to list their crops, buyers to negotiate prices, and both parties to communicate without intermediaries. Features include crop posting, secured authentication, real-time updates, product bidding, and contractor modules. Built with a clean, modern UI focused on transparency and fair pricing."
-    ghLink="https://github.com/yourusername/Kisaan-Setu"
+    ghLink="https://github.com/saniya-manihar/Kisaan-Setu---MERN"
     demoLink="https://your-demo-link.com"
   />
 </Col>
