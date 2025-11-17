@@ -41,7 +41,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand as={NavLink} to="/" onClick={() => setExpanded(false)} className="d-flex align-items-center">
-          <div className="nav-logo" aria-hidden="true">GZ</div>
+          <div className="nav-logo" aria-hidden="true"></div>
           <span style={logoTextStyle} className="ms-2">SaniyaM</span>
         </Navbar.Brand>
 
