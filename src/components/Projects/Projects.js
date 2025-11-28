@@ -39,6 +39,7 @@ function Projects() {
               title="Todo List"
               description="Experience seamless task management with our To-Do list project. Add your daily tasks to the list and effortlessly remove them when completed. Enjoy the convenience of modern features like dynamic rendering, easy styling, and organized structure. Stay productive and in control of your tasks with this user-friendly web-based solution. "
               ghLink="https://github.com/saniya-manihar/To-do"
+              demoLink="https://todo-saniya.vercel.app"
             />
           </Col>
           <Col md={4} className="project-card">
