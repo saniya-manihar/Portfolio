@@ -62,6 +62,8 @@ function Projects() {
               title="Math Magicians"
               description="Math Magicians is an educational web application built using React, designed for math enthusiasts. It features a versatile calculator for basic math operations and offers random math-related quotes for inspiration. The project provides hands-on learning in web development, divided into projects covering setup, component creation, event handling, data fetching, website structure, and testing. It aims to make math learning engaging and serves as a practical React development exercise."
               ghLink="https://github.com/saniya-manihar/math-magicians"
+               demoLink=" https://math-magicians-alpha.vercel.app/"
+            
             />
           </Col>
 
@@ -72,6 +74,9 @@ function Projects() {
               title="Rock • Paper • Scissors Game"
               description="A modern, interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. Features include animated 3D UI, hover effects, real-time score calculation, and dynamic game logic against the computer. The project demonstrates strong fundamentals of DOM manipulation, event handling, random choice algorithms, and responsive game UI."
               ghLink="https://github.com/saniya-manihar/Rock-Paper-and-Scissor-Game"
+              demoLink=" https://rock-paper-and-scissor-game-fawn.vercel.app/"
+
+
             />
           </Col>
 
